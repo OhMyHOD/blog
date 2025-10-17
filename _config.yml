@@ -28,7 +28,7 @@ github_username:  OhMyHOD
 domain: "ohmyhod.github.io"
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 
