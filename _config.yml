@@ -20,13 +20,16 @@
 
 title: Hi! I'm Dia.
 email: basak@imj-prg.fr
+github_username:  OhMyHOD
+repository: OhMyHOD/blog
+
 description: >- # this means to ignore newlines until "baseurl:"
   Dianthe Basak's personal webpage.
-baseurl: "/" # the subpath of your site, e.g. /blog
+
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://ohmyhod.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  OhMyHOD
 domain: ohmyhod.github.io
-repository: OhMyHOD/about-me
+
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
