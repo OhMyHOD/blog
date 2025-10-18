@@ -26,6 +26,7 @@ baseurl: "/about-me" # the subpath of your site, e.g. /blog
 url: "https://ohmyhod.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  OhMyHOD
 domain: ohmyhod.github.io
+repository: OhMyHOD/about-me
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
