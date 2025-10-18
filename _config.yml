@@ -18,18 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hi! I'm Dia.
+title: web.log
 email: basak@imj-prg.fr
 github_username:  OhMyHOD
 repository: OhMyHOD/blog
 
+logo: face_photo.jpg
+
 description: >- # this means to ignore newlines until "baseurl:"
-  Dianthe Basak's personal webpage.
+  Dianthe Basak's web log.
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://ohmyhod.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: ohmyhod.github.io
 
+github: [metadata]
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
